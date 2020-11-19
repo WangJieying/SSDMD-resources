@@ -7,7 +7,7 @@ PSNR metric has wide usage in the image processing literature, it is simple to c
 
 Original image
 
-![JPEG](./imgs/JPEG10.png)
+![JPEG](./imgs/JPEG10.jpg)
 
 JPEG compression (quality = 10%), PSNR = 28.1     
 
