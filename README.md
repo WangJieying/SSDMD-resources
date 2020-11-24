@@ -5,4 +5,4 @@ Medial descriptors offer a promising way for representing, simplifying, manipula
   - [Pipeline](./Pipeline.md)
   - [QualityMetrics](./QualityMetrics.md)
   - [Results](./Results.md)
-  - [Replication](replication.md)
+  - [Replication](./replication.md)
