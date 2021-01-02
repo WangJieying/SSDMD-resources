@@ -1,4 +1,4 @@
-The source code of DMD image compression can be accessed by: https://www.dropbox.com/home/CDMD-code.
+The source code of SSDMD image compression can be accessed by: https://github.com/WangJieying/SSDMD-code
 
 **How to build:**
 
@@ -18,7 +18,3 @@ cd ../../
 
 cd Code/imConvert && make
 
-
-
-
-**SSDMD source code: to be added...**
