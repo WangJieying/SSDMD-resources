@@ -1,7 +1,7 @@
 # Quality Metrics
 ### PSNR
 
-PSNR metric has wide usage in the image processing literature, it is simple to compute and has clear physical meanings.However, this metric does not match well perceived visual quality, see the following examples.
+PSNR metric has wide usage in the image processing literature, it is simple to compute and has clear physical meanings. However, this metric does not match well perceived visual quality, see the following examples.
 
 ![Orig](./imgs/originalFlower.jpg)
 
@@ -16,8 +16,7 @@ JPEG compression (quality = 10%), PSNR = 28.1
 SSDMD compression, PSNR = 22.7
 
 
-We see that the JPEG result with quality setting as 10% is fuzzy, blocky, and has color quantization effects. Although SSDMD also looks possibly a bit fuzzy, it’s perceptually more closer to the original image than the JPEG one. However the PSNR value tells the opposite. So PSNR not correspond well with perceived quality.
-
+We see that the JPEG result with the quality setting of 10% is fuzzy, blocky, and has color quantization effects. Although SSDMD also looks possibly a bit fuzzy, it’s perceptually closer to the original image than the JPEG one. However, the PSNR value tells the opposite. So PSNR does not correspond well with perceived quality.
 
 ### Structural Similiarity Metrics
 
